@@ -4,6 +4,11 @@
 
 **My Class**:***108***  
 **My StudentCardID**:***222766***  
-**My Name**:(Chinese)***吴秉松***  
+**My Name**(CN):***吴秉松***  
+
+- - -
+
+**My Hobbies**  
+> Python,C++/C,Java(Only a little) 
 
 - - -
