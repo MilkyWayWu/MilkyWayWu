@@ -10,7 +10,7 @@
 
 **My Hobbies**  
 > Python,C++/C,Java(Only a little) 
-
+> Shotting Yuhongbin (You can see he at my another repository)
 - - -
 
 *I have a friend who named 余鸿斌 , but he is a SB.*
