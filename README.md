@@ -12,3 +12,5 @@
 > Python,C++/C,Java(Only a little) 
 
 - - -
+
+*I have a friend who named 余鸿斌 , but he is a SB.*
